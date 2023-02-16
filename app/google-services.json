@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "763920685967",
+    "project_id": "manga-stone",
+    "storage_bucket": "manga-stone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763920685967:android:9751aa6495e85dcb7a09fa",
+        "android_client_info": {
+          "package_name": "com.bcit.manga_stone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763920685967-57sie4cnocukgaf5ij5r11drf6a5880n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJHTevG1lhWfXp5c2D9l1E-tGGbLowPus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763920685967-57sie4cnocukgaf5ij5r11drf6a5880n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuItem_bottomNav_browse"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/bottomNav_browse" />
+    <item
+        android:id="@+id/menuItem_bottomNav_favourites"
+        android:icon="@drawable/ic_baseline_favorite_border_24"
+        android:title="@string/bottomNav_favourites" />
+    <item
+        android:id="@+id/menuItem_bottomNav_history"
+        android:icon="@drawable/ic_baseline_book_24"
+        android:title="@string/bottomNav_history" />
+    <item
+        android:id="@+id/menuItem_bottomNav_more"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="@string/bottomNav_more" />
+</menu>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    Custom theme colors below: -->
+    <color name="primaryColor">#37474f</color>
+    <color name="primaryLightColor">#62727b</color>
+    <color name="primaryDarkColor">#102027</color>
+    <color name="primaryTextColor">#5c6bc0</color>
+    <color name="backgroundColor">#303f9f</color>
+    <color name="lightBackgroundColor">#434343</color>
+    <color name="darkBackgroundColor">#848C8F</color>
+    <color name="starColor">#5c6bc0</color>
+</resources>

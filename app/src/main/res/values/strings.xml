@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">MangaStone</string>
+    <string name="bottomNav_browse">Browse</string>
+    <string name="bottomNav_favourites">Favourites</string>
+    <string name="bottomNav_history">History</string>
+    <string name="bottomNav_more">More</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="more_settings">Settings</string>
+    <string name="more_help">Help</string>
+    <string name="more_about">About</string>
+    <string name="dialogue_delete_history">Are you sure? All history will be lost and this action cannot be reversed.</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="history_deleteHistory">Delete history</string>
+    <string name="status">Status: </string>
+    <string name="favourite">Favourite</string>
+    <string name="browseActionBar_search">Search</string>
+    <string name="browseActionBar_eyeGlass">EyeGlass</string>
+    <string name="browseActionBar_sort">Sort By</string>
+    <string name="alertDialog_sortBy">Sort By</string>
+    <string name="alertDialog_filter">Filters</string>
+    <string name="alertDialog_ok">Ok</string>
+    <string name="alertDialog_cancel">Cancel</string>
+    <string name="about_title">Manga Stone</string>
+    <string name="about_version">Version 1.0 Release</string>
+    <string name="about_developers">Developed by: Gabriel, Justin, and Tim</string>
+    <string name="about_description">Made with for Android Development course project at BCIT. A Manga reader app to view statistics, ratings, favourite your stories.</string>
+    <string name="about_APIs">APIs used: Anilist and Mangadex</string>
+    <string name="settings_darkmode">Toggle dark mode</string>
+    <string name="browseActionBar_filters">Filters</string>
+    <string name="more_signin">Sign In</string>
+    <string name="summary_imageDescription">Manga Cover Image</string>
+    <string-array name="alertDialog_filter_options">
+        <item>Most popular</item>
+        <item>Latest Uploaded Chapter</item>
+        <item>Newest First</item>
+        <item>Relevance</item>
+    </string-array>
+    <string-array name="alertDialog_genre_options">
+        <item>OneShot</item> <!--0234a31e-a729-4e28-9d6a-3f87c4966b9e-->
+        <item>Thriller</item> <!--07251805-a27e-4d59-b488-f0bfbec15168-->
+        <item>Award Winning</item> <!--0a39b5a1-b235-4886-a747-1d05d216532d-->
+        <item>Reincarnation</item> <!--0bc90acb-ccc1-44ca-a34a-b9f3a73259d0-->
+        <item>Sci-fi</item> <!--256c8bd9-4904-4360-bf4f-508a76d67183-->
+        <item>Historical</item> <!--33771934-028e-4cb3-8744-691e866a923e-->
+        <item>Action</item> <!--391b0423-d847-456f-aff0-8b0cfc03066b-->
+        <item>Romance</item> <!--423e2eae-a7a2-4a8b-ac03-a8351462d71d-->
+        <item>Comedy</item> <!--4d32cc48-9f00-4cca-9b5a-a839f0764984-->
+        <item>Adventure</item> <!--87cc87cd-a395-47af-b27a-93258283bbc6-->
+    </string-array>
+    <string-array name="alertDialog_genre_ids">
+        <item>0234a31e-a729-4e28-9d6a-3f87c4966b9e</item>
+        <item>07251805-a27e-4d59-b488-f0bfbec15168</item>
+        <item>0a39b5a1-b235-4886-a747-1d05d216532d</item>
+        <item>0bc90acb-ccc1-44ca-a34a-b9f3a73259d0</item>
+        <item>256c8bd9-4904-4360-bf4f-508a76d67183</item>
+        <item>33771934-028e-4cb3-8744-691e866a923e</item>
+        <item>391b0423-d847-456f-aff0-8b0cfc03066b</item>
+        <item>423e2eae-a7a2-4a8b-ac03-a8351462d71d</item>
+        <item>4d32cc48-9f00-4cca-9b5a-a839f0764984</item>
+        <item>87cc87cd-a395-47af-b27a-93258283bbc6</item>
+    </string-array>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_browseActionBar_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="@string/browseActionBar_search"
+        android:voiceSearchMode="showVoiceSearchButton|launchRecognizer"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/item_browseActionBar_sort"
+        android:icon="@drawable/ic_baseline_sort_24"
+        android:title="@string/browseActionBar_sort"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/item_browseActionBar_filter"
+        android:icon="@drawable/ic_outline_filter_alt_24"
+        android:title="@string/browseActionBar_filters"
+        app:showAsAction="collapseActionView" />
+</menu>
